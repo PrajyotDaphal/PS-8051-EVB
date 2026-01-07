@@ -22,13 +22,13 @@ PS-8051-EVB is a custom-designed **8051 microcontroller evaluation board** devel
 - Project images and documentation
 
 ## 🖼 Schematic
-![Schematic](Image/Screenshot 2026-01-07 213325.png)
+![Schematic](Image/schematic.png)
 
 ## 🧩 PCB Layout
 ![PCB Layout](Image/pcb_layout.png)
 
 ## 🔷 PCB 3D View
-![PCB 3D](Image/Screenshot 2026-01-07 212316.png)
+![PCB 3D](Image/pcb_3d.png)
 
 ## 📂 Repository Structure
 PS-8051-EVB/
